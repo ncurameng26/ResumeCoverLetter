@@ -1,20 +1,50 @@
-.column {
-    float: left;
+body{
+  margin-left: 10px;
+  margin-right: 0px;
+}
+
+
+
+h1{
+  margin-top: 0px;
+  padding-top: 0px;
+}
+.smaller__container{
+  font-style: italic;
+  font-size: 8pt;
+  float: right;
+}
+
+
+h2{
+  line-height: 1;
+  margin-bottom:  2px;;
+  padding-bottom:2px;
+  margin-top: 0px;
+  font-size: 14pt;
+}
+
+h3{
+  line-height: 1;
+  padding:0;
+  margin:0;
+  font-size: 11pt;
+}
+
+
+  .summary__container{
+    margin-bottom: 10px;
+    margin-top: 0px;
+
   }
-  
-  .left {
-    width: 73%;
-    font-size: 16px;
-    margin-top: 0;
-    margin-bottom: 0;
-    line-height: 1;
-  }
+
+
 
   ul{
     line-height: 1;
     padding-top:5px;
     padding-bottom:5px;
-    margin-top:5px;
+    margin-top:3px;
     margin-bottom:5px;
     padding-left: 30px;
   }
@@ -25,29 +55,34 @@
     padding-left: 0;
   }
   
-  h3{
-    line-height: 1;
-    padding:0;
-    margin:0;
+.skills__container ul{
+  list-style: dot;
+  margin-left: 0px;
+  padding-left: 10px;
+  margin: 0px;
+  padding: 0px;
+}
 
-  }
-  
-  h2{
-    line-height: 1;
-    margin-bottom:  2px;;
-    padding-bottom:2px;
-  }
+.skills__container li{
+  display: inline-block;
+  margin-right: 5px;
+  margin: 0px;
+  padding: 0px;
+
+}
+
+
 
   p{
     margin-bottom:0;
     padding-bottom:0;
-    padding-top:1px;
-    margin-top:1px;
-    font-size: 16px;
+    padding-top:1.2px;
+    margin-top:1.2px;
+    font-size: 11pt;
   }
 
   .hiringContainer p{
-    font-size: 16px;
+    font-size: 11pt;
     margin-bottom: 10px;
   }
 
@@ -61,35 +96,31 @@
 
 
   .HeroContainer p{
-    font-size: 16px;
+    font-size: 11pt;
   }
-  
+
+
+  .left {
+    width: 73%;
+    font-size: 11pt;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 1;
+  }
   
   .right {
-    width: 23%;
-    padding-left: 4%;
-    font-size: 16px;
+    width: 25%;
+    padding-left: 2%;
+    font-size: 11pt;
   }
-  
-  
+
+  .column {
+    float: left;
+  }
+
   header{
     text-align: center;
-  }
-  
-  .sectionHeader{
-    font-size:16px;
-    color:blue;
-    font-weight: bold;
-  }
-  
-  .contact{
-    background-color: lightblue;
-    margin-left: auto;
-    margin-right: auto;
-    width: auto;
-    height: auto;
-    padding-bottom: 5px;
-    padding-top: 1px;
-    padding-left:20px;
-    text-align: left;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
   }
