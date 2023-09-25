@@ -1,0 +1,95 @@
+.column {
+    float: left;
+  }
+  
+  .left {
+    width: 73%;
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 1;
+  }
+
+  ul{
+    line-height: 1;
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-top:5px;
+    margin-bottom:5px;
+    padding-left: 30px;
+  }
+  
+  li{
+    line-height: 1;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  
+  h3{
+    line-height: 1;
+    padding:0;
+    margin:0;
+
+  }
+  
+  h2{
+    line-height: 1;
+    margin-bottom:  2px;;
+    padding-bottom:2px;
+  }
+
+  p{
+    margin-bottom:0;
+    padding-bottom:0;
+    padding-top:1px;
+    margin-top:1px;
+    font-size: 16px;
+  }
+
+  .hiringContainer p{
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+
+  .hiringContainer{
+    margin-bottom: 10px;
+  }
+
+  .hiringText p{
+    margin-bottom: 2px;
+  }
+
+
+  .HeroContainer p{
+    font-size: 16px;
+  }
+  
+  
+  .right {
+    width: 23%;
+    padding-left: 4%;
+    font-size: 16px;
+  }
+  
+  
+  header{
+    text-align: center;
+  }
+  
+  .sectionHeader{
+    font-size:16px;
+    color:blue;
+    font-weight: bold;
+  }
+  
+  .contact{
+    background-color: lightblue;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: auto;
+    padding-bottom: 5px;
+    padding-top: 1px;
+    padding-left:20px;
+    text-align: left;
+  }
