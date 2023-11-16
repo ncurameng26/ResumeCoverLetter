@@ -1,0 +1,155 @@
+body {
+  margin-left: 10px;
+  margin-right: 0px;
+}
+
+
+
+h1 {
+  margin-top: 0px;
+  padding-top: 0px;
+  margin-bottom: 0px;
+}
+
+.smaller__container {
+  font-style: italic;
+  font-size: 8pt;
+  float: right;
+}
+
+
+h4 {
+  font-style: italic;
+  font-weight: normal;
+  font-size: 14px;
+  margin: 0px;
+  padding: 0px;
+}
+
+
+h2 {
+  line-height: 1;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  margin-top: 5px;
+  font-size: 14pt;
+}
+
+h3 {
+  line-height: 1;
+  padding: 0;
+  margin: 0;
+  font-size: 11pt;
+}
+
+
+.summary__container {
+  margin-bottom: 10px;
+  margin-top: 0px;
+
+}
+
+
+
+ul {
+  line-height: 1;
+  padding-bottom: 5px;
+  margin-top: 3px;
+  margin-bottom: 5px;
+  padding-left: 30px;
+}
+
+li {
+  line-height: 1;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.skills__container ul {
+  list-style: dot;
+  margin-left: 0px;
+  padding-left: 10px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.top {
+  height: 1px;
+  color: black;
+  /* old IE */
+  background-color: black;
+}
+
+.skills__container li {
+  display: inline-block;
+  margin-right: 5px;
+  margin: 0px;
+  padding: 0px;
+
+}
+
+
+
+p {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  padding-top: 1.2px;
+  margin-top: 1.2px;
+  font-size: 11pt;
+}
+
+.hiringContainer p {
+  font-size: 11pt;
+  margin-bottom: 10px;
+}
+
+.hiringContainer {
+  margin-bottom: 10px;
+}
+
+.hiringText p {
+  margin-bottom: 2px;
+}
+
+
+.HeroContainer p {
+  font-size: 11pt;
+}
+
+
+.left {
+  width: 73%;
+  font-size: 11pt;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 1;
+}
+
+.bolded {
+  font-weight: bold;
+}
+
+.normal {
+  font-weight: normal;
+  font-style: italic;
+  font-size: 14px;
+
+}
+
+
+.right {
+  width: 25%;
+  padding-left: 2%;
+  font-size: 11pt;
+}
+
+.column {
+  float: left;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  padding-top: 0px;
+}
